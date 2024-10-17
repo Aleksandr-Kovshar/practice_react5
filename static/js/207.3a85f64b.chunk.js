@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpractice_react5=self.webpackChunkpractice_react5||[]).push([[207],{207:(e,r,s)=>{s.r(r),s.d(r,{SubBreeds:()=>t,default:()=>u});var c=s(184);const{useParams:a}=s(87),t=()=>{const{dogId:e}=a();return(0,c.jsxs)("div",{children:["SubBreeds: ",e]})},u=t}}]);
+//# sourceMappingURL=207.3a85f64b.chunk.js.map
